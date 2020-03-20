@@ -133,3 +133,18 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Create a fixed navigation and add some opacity to the background
 
 * [ ] Create a form that would allow someone to sign up for a Spacewalkers Magazine subscription
+Answers:
+        Q1
+        Responsive sites and adaptive sites are the same in that they both change appearance 
+        based on the browser environment they are being viewed on.
+        Adaptive websites adapt to the width of the browser at a specific points. In other words, the website is only concerned about 
+        the browser being a specific width, at which point it adapts the layout.
+        q2
+        Means you build for the mobile than extend to deskto and the other way around
+        Q3
+        It gives it a base font size to that matches with the rem
+        q4
+        Its like adding the color to your drawings
+        q5
+        I really like adding imges\errors in my code that i don't catch 
+    
